@@ -51,7 +51,9 @@ The system then:
 
 ---
 
-## Example --> examplePhoto.png
+## Example
+
+examplePhoto.png examplePhoto1.png
 ---
 
 ## Dataset
