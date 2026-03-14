@@ -53,8 +53,8 @@ The system then:
 
 ## Example
 
-examplePhoto.png examplePhoto1.png
----
+    examplePhoto.png examplePhoto1.png
+--- 
 
 ## Dataset
 
