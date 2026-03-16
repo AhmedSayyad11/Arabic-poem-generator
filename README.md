@@ -95,5 +95,5 @@ You will see a menu:
 
 ## Ahmed sayyad 
 
-Computer Engineering graduate interested in AI, NLP and Generative AI.
+Computer Engineering graduate interested in AI, ML and Generative AI.
 
