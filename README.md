@@ -59,6 +59,7 @@ The system then:
 ## Dataset
 
 The project uses an Arabic poetry dataset stored as: Arabic_poetry_dataset.csv
+the attached file is zipped file need to extract it.
 
 Each poem is split into individual verses and filtered based on quality rules.
 
